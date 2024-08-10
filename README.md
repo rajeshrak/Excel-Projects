@@ -20,7 +20,6 @@
    - About different charts
   
    My learnings
-   -
-
+   
    My LinkedIn profile for checking my certification
    
