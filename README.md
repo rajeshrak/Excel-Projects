@@ -1,11 +1,11 @@
 # Excel-Projects
 
-1. My Microsoft Excel 2016 learnings from Infosys Springboard
+### 1. My Microsoft Excel 2016 learnings from Infosys Springboard
    
-   About Infosys Springboard <https://infyspringboard.onwingspan.com/web/en/>
+   About Infosys Springboard [https://infyspringboard.onwingspan.com/web/en/]
    - Infosys started the course with the aim to teaching different skills to the general public, to make them digitally literate and develop the skillset that might be needed in professional set up.
    
-   Microsoft Excel Course 2016 content:
+   ### Microsoft Excel Course 2016 content:
    
    Total Course duration - 10hrs
    
@@ -19,7 +19,7 @@
    - Conditional Formatting
    - About different charts
   
-   My learnings
+   ### My learnings
    
-   My LinkedIn profile for checking my certification
+   ### My LinkedIn profile for checking my certification
    
